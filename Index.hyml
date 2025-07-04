@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lagos Restaurant Owner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Owning a Restaurant in Lagos</h1>
+    <p>Real stories, real tips from the frontline of Lagos cuisine.</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi, I'm [Your Name], a Lagos restaurant owner. I built my dream from scratch in one of Africa’s busiest cities.</p>
+  </section>
+
+  <section id="challenges">
+    <h2>Challenges in Lagos</h2>
+    <ul>
+      <li>💲 High food costs & fuel</li>
+      <li>🔌 Inconsistent power supply</li>
+      <li>👥 Staff turnover</li>
+      <li>🥗 Food spoilage</li>
+      <li>📃 Permits & regs</li>
+    </ul>
+  </section>
+
+  <section id="tips">
+    <h2>Top Tips for Success</h2>
+    <ol>
+      <li>Source from trusted local suppliers</li>
+      <li>Keep your menu simple yet unique</li>
+      <li>Invest in reliable backup power</li>
+      <li>Train and treat your staff well</li>
+      <li>Use social media for marketing</li>
+    </ol>
+  </section>
+
+  <section id="contact">
+    <h2>Contact & Booking</h2>
+    <p>Email: <a href="mailto:you@example.com">you@example.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/lagosfooddreams" target="_blank">@lagosfooddreams</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Lagos Restaurant Owner</p>
+  </footer>
+</body>
+</html>
